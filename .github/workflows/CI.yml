@@ -1,4 +1,4 @@
-name: Java CI with Maven
+name: CI
 
 on:
   push:
@@ -7,7 +7,7 @@ on:
     branches: [ "main" ]
 
 jobs:
-  build:
+  test-and-build:
 
     runs-on: ubuntu-latest
 
