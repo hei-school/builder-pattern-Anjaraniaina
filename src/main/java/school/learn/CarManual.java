@@ -1,42 +1,42 @@
 package school.learn;
 
 public class CarManual {
-    int seat;
-    String engine;
+  int seat;
+  String engine;
 
-    String GPS;
+  String GPS;
 
-    boolean haveTripComputer;
+  boolean haveTripComputer;
 
-    public int getSeat() {
-        return seat;
-    }
+  public int getSeat() {
+    return seat;
+  }
 
-    public void setSeat(int seat) {
-        this.seat = seat;
-    }
+  public void setSeat(int seat) {
+    this.seat = seat;
+  }
 
-    public String getEngine() {
-        return engine;
-    }
+  public String getEngine() {
+    return engine;
+  }
 
-    public void setEngine(String engine) {
-        this.engine = engine;
-    }
+  public void setEngine(String engine) {
+    this.engine = engine;
+  }
 
-    public String getGPS() {
-        return GPS;
-    }
+  public String getGPS() {
+    return GPS;
+  }
 
-    public void setGPS(String GPS) {
-        this.GPS = GPS;
-    }
+  public void setGPS(String GPS) {
+    this.GPS = GPS;
+  }
 
-    public boolean haveTripComputer() {
-        return haveTripComputer;
-    }
+  public boolean haveTripComputer() {
+    return haveTripComputer;
+  }
 
-    public void setHaveTripComputer(boolean haveTripComputer) {
-        this.haveTripComputer = haveTripComputer;
-    }
+  public void setHaveTripComputer(boolean haveTripComputer) {
+    this.haveTripComputer = haveTripComputer;
+  }
 }
