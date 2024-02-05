@@ -1,1 +1,12 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/eYTuOlgZ)
+# Builder Pattern
+This is an implementation of the builder design pattern for learning purpose.
+
+# Requirements
+* [maven]()
+* [java]()
+
+# How to run ?
+From this root directory run:
+```mvn install```
+then
+```mvn test```
